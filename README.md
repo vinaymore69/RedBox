@@ -419,7 +419,7 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   final _formKey = GlobalKey<FormState>();
   final TextEditingController _spreadsheetController = TextEditingController();
-  final String apiKey = 'AIzaSyBiH6h61tA1Uz8x4J-RxlVpzWo0v9qcI0M';
+  final String apiKey = '......';
   final String sheetName = 'Sheet1';
 ```
 
